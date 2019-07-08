@@ -19,3 +19,5 @@ if(!$selectdb){
 
 # For Complete text Article and Video Tutorials checkout these links
 <a href="https://codingcyber.org/ajax-country-state-city-select-dropdown-list-7698/">Create Ajax Country State City Select Dropdown List</a>
+
+<a href="https://www.udemy.com/learn-ajax-with-php-multiple-projects/?couponCode=GITHUB">Learn AJAX with PHP : 3 Awesome Projects - Basic to Advanced Course on Udemy</a>
